@@ -14,6 +14,8 @@ Features
 
 See operation-queue.js for documentation and details.
 
+Also check out my [blog post](http://arguingwithalgorithms.blogspot.com/2014/05/the-operation-queue-content-editing.html) concerning the motivation and design of this feature.
+
 ## License
 
 [MIT License](http://opensource.org/licenses/MIT)
